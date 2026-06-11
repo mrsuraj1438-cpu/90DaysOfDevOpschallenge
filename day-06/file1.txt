@@ -1,0 +1,4 @@
+Hello this is Anvash
+I am practicing Linux commands
+Today is Day 06 of DevOps
+Learnning file handling is important
